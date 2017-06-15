@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "6155467338",
+    "firebase_url": "https://onlineshoppingapp-c4933.firebaseio.com",
+    "project_id": "onlineshoppingapp-c4933",
+    "storage_bucket": "onlineshoppingapp-c4933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6155467338:android:edca07200b76ddad",
+        "android_client_info": {
+          "package_name": "com.example.azhar_sarps.cash2kart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6155467338-fs3gmncoutgfduia36f6ti0e6rg8852o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7vnItqhREhpunEvFPiAJ5qew3HuEYaUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
